@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "magogaucho",
+    "database": "imageschallenge",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "bf380bc66dbc80",
+    "password": "67f783a9",
+    "database": "heroku_77e65d91a26a01a",
+    "host": "us-cdbr-east-05.cleardb.net",
+    "dialect": "mysql"
+  }
+}
